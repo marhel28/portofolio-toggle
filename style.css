@@ -1,0 +1,13 @@
+.jumbotron{
+    padding-top: 7rem;
+    background-color: #62e5f9;
+    font-family: monospace;
+}
+
+#project{
+    background-color: #62e5f9;
+}
+
+section{
+    padding-top: 5rem;
+}
